@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#09090f"/>
+  <rect x="56" y="56" width="400" height="400" rx="80" fill="#111118"/>
+  <!-- Fader 1 -->
+  <rect x="110" y="160" width="18" height="200" rx="9" fill="#252533"/>
+  <rect x="101" y="220" width="36" height="28" rx="8" fill="#7c6aff"/>
+  <!-- Fader 2 -->
+  <rect x="175" y="160" width="18" height="200" rx="9" fill="#252533"/>
+  <rect x="166" y="270" width="36" height="28" rx="8" fill="#9580ff"/>
+  <!-- Fader 3 -->
+  <rect x="240" y="160" width="18" height="200" rx="9" fill="#252533"/>
+  <rect x="231" y="190" width="36" height="28" rx="8" fill="#7c6aff"/>
+  <!-- Fader 4 -->
+  <rect x="305" y="160" width="18" height="200" rx="9" fill="#252533"/>
+  <rect x="296" y="240" width="36" height="28" rx="8" fill="#c084fc"/>
+  <!-- Fader 5 -->
+  <rect x="370" y="160" width="18" height="200" rx="9" fill="#252533"/>
+  <rect x="361" y="200" width="36" height="28" rx="8" fill="#9580ff"/>
+</svg>
